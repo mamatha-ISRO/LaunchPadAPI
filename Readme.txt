@@ -1,9 +1,9 @@
-﻿Assumptions:
-	*Design and place holder of tick tack toe is assumed as below 
+Assumptions:
+	Design and place holder of tick tack toe is assumed as below 
 	1 2 3
 	4 5 6
 	7 8 9
-	*Winning combinations are:
+	Winning combinations are:
             1, 2, 3 
             4, 5, 6
             7, 8, 9                        
@@ -12,7 +12,9 @@
             3, 6, 9                        
             1, 5, 9 
             3, 5, 7
-	*Client side validation- X and O Player are decided at client side, alternate player entry is handled at client side.
+            
+            
+	Client side validation- X and O Player are decided at client side, alternate player entry is handled at client side.
 How to run in development and production environment 
 	Clone GIthub repository to your system, install MsSQL 
 	Open solution in Visual Studio, 
