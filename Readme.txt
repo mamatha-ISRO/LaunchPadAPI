@@ -51,7 +51,7 @@ Question: What is the appropriate OAuth 2/OIDC grant to use for a web applicatio
 Page Application) and why?
 Answer:
 
-OAuth 2.0 is an open standard authorization used for single page application authorization because it can be used for accessing different third party applications from single page.As per the requirement its extension Open ID connect can also be implemented. 
+OAuth 2.0 is an open standard authorization used for single page application authorization because it can be used for accessing different third party applications from single page. As per the requirement its extension Open ID connect can also be implemented. 
 
 With OAuth, you can log into third party websites without having the necessity to provide your passwords. This way you can avoid creating accounts and remembering passwords on each and every web application that you use on the Internet.
 OAuth is based on an access token concept. When you authenticate yourself using let’s say your Google account, to a third party web application. Google authorization server issues an access token to that web application with the approval of the owner. Thus, the web application can use that access token to access your data hosted in the resource server.  Hence, OAuth is a simple way to publish and interact with protected resource data. It’s also a safer and more secure way for people to give you access to their resource data.
